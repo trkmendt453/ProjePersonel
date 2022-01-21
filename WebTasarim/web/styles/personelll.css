@@ -1,0 +1,38 @@
+
+/* 
+    Created on : 16.Oca.2022, 22:43:34
+    Author     : TÜRKMEN
+*/
+body {
+    background-image: url(https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-color: rgba(233, 34, 34, 0.4);
+    background-position: top-left;
+    }
+    table{
+        background: #0a18dd;
+        margin:5px;
+        width: 100%;
+        color:rgb(242, 241, 250);
+        border: 1px;
+      }
+      #dt{
+        background: rgb(243, 247, 239,0.8);
+    }
+
+    td,th{
+      border:1px solid rgb(221, 221, 233);
+      border-spacing: 0px;
+      margin: 0px;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    .panel{
+        
+        position: relative;
+        top: 200px;
+    }

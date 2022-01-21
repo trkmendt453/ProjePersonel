@@ -1,0 +1,116 @@
+  
+/* 
+    Created on : 13.Oca.2022, 22:34:04
+    Author     : TÜRKMEN
+*/
+
+body {
+  background-image: url(https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-color: white;
+  background-position: top-left;
+  }
+  
+#dt{
+    background: rgb(240, 241, 238,0.8);
+}
+.personel{
+
+  border: none;
+    text-align: center;
+    color: rgb(26, 23, 23);
+    position:absolute;
+    left: 30%;
+    top: 10%;
+  
+}
+.proje{
+ position: relative;
+ float: left;
+ margin: 80px;
+ margin-top: 0px;
+      padding: 100px
+    width: 120px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    background: #fff;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #666;
+    box-shadow: 0 6px 6px #06f;
+    outline: none;
+    
+}
+.yonetici{
+    text-align: center;
+    color: rgb(24, 21, 21);
+    position:absolute;
+    left: 70%;
+    top: 10%;
+}
+#sayfa{
+    width: 800px;
+    height: 300px;
+    margin:auto;
+    background: rgb(247, 245, 245,0.8);
+    padding:40px;
+    margin-top: 120px;
+    
+  }
+  label{
+    display:block;
+    margin-top:5px;
+  }
+  input{
+      position: relative;
+      left: 11%;
+      top: -23px;
+    width: 200px;
+    height: 25px;
+    font-size:1.2em;
+  }
+  .re{
+    border:none;
+    display:block;
+    margin-top:5px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    font-size:1.2em;
+  }
+  table{
+    background: #0984e3;
+    margin:5px;
+    width: 100%;
+    color:#fff;
+  }
+  td,th{
+    border:1px solid white;
+    border-spacing: 0px;
+    margin: 0px;
+  }
+  
+  .proje:active {
+    /* set time duration to your needs */
+    animation: gradient 100ms;
+    background: #f88;
+    color: #fff;
+    box-shadow: none;
+  }
+
+  .tablo2{
+      position: relative;
+      left: 60%;
+      top: -218px;
+  }
+  
+  a:link {
+  color: red;
+}
+
+a {
+  color: hotpink;
+}
+  
